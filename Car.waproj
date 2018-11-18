@@ -1,0 +1,11 @@
+{
+ "defaultScene": "7145608032254103907",
+ "lastOpenedScene": "7145608032254103907",
+ "name": "Car",
+ "projectType": 1,
+ "scenes": {
+  "7145608032254103907": "Scene1.wascene"
+ },
+ "ui-res": "768x432",
+ "version": "3.0.9"
+}

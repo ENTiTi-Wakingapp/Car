@@ -1,0 +1,3348 @@
+{
+ "scene": {
+  "ambientColor": {
+   "x": 0.5,
+   "y": 0.5,
+   "z": 0.5
+  },
+  "ambientIntensity": 1.0,
+  "assets": {
+   "10192997081772586404": {
+    "name": "Arrow.gltf",
+    "type": 1
+   },
+   "1089974170025506554": {
+    "name": "tire.wamat",
+    "type": 6
+   },
+   "12277470587215350003": {
+    "name": "brakedisc.wamat",
+    "type": 6
+   },
+   "12977931466186880170": {
+    "name": "beetle_2012_black.wamat",
+    "type": 6
+   },
+   "13052976889304194284": {
+    "name": "b0b0b0.wamat",
+    "type": 6
+   },
+   "13064796341937225118": {
+    "name": "carpaint.wamat",
+    "type": 6
+   },
+   "13091155473991718076": {
+    "name": "beetle_2012_plastic_blue.wamat",
+    "type": 6
+   },
+   "14527926155859794726": {
+    "name": "blackpaint.wamat",
+    "type": 6
+   },
+   "14599443459225784680": {
+    "name": "OKTARGET.png",
+    "type": 4
+   },
+   "1463330456998603592": {
+    "name": "PlaceCarButton.js",
+    "type": 5
+   },
+   "15337690976175567550": {
+    "name": "rimmatte.wamat",
+    "type": 6
+   },
+   "153525799650085768": {
+    "name": "chrome.wamat",
+    "type": 6
+   },
+   "15380519246640248111": {
+    "name": "beetle_2012_plastic.wamat",
+    "type": 6
+   },
+   "15767581237433304355": {
+    "name": "OKROTATE.png",
+    "type": 4
+   },
+   "15774266508519033917": {
+    "name": "darkglass.wamat",
+    "type": 6
+   },
+   "16027782373507939813": {
+    "name": "SLAM Placement Script.js",
+    "type": 5
+   },
+   "16137965272717525365": {
+    "name": "whiteglassfrosted.wamat",
+    "type": 6
+   },
+   "16308826715218003194": {
+    "name": "beetle_2012_aluminium.wamat",
+    "type": 6
+   },
+   "16882303935356701221": {
+    "name": "PlayButton.js",
+    "type": 5
+   },
+   "16929266321419804361": {
+    "name": "Car.gltf",
+    "type": 1
+   },
+   "17394278241239840381": {
+    "name": "beetle_2012_plastic_white.wamat",
+    "type": 6
+   },
+   "17502212674238458442": {
+    "name": "windowglass.wamat",
+    "type": 6
+   },
+   "17667645387726892534": {
+    "name": "EngineScript.js",
+    "type": 5
+   },
+   "17686827520072838838": {
+    "name": "mattemetal.wamat",
+    "type": 6
+   },
+   "18034508081434875144": {
+    "name": "OKTARGETINSIDE.png",
+    "type": 4
+   },
+   "1957486574744879812": {
+    "name": "OKPLAYINSIDE.png",
+    "type": 4
+   },
+   "1999574524184854708": {
+    "name": "whiteglass.wamat",
+    "type": 6
+   },
+   "2783494423762253251": {
+    "name": "rubber.wamat",
+    "type": 6
+   },
+   "437656696870105565": {
+    "name": "leather.wamat",
+    "type": 6
+   },
+   "4713809497351615849": {
+    "name": "redglass.wamat",
+    "type": 6
+   },
+   "5011141573685917332": {
+    "name": "mirror.wamat",
+    "type": 6
+   },
+   "5408303515658639398": {
+    "name": "RotateButton.js",
+    "type": 5
+   },
+   "5782631768539542102": {
+    "name": "WA-Logo.wamat",
+    "type": 6
+   },
+   "5983984460873824816": {
+    "name": "plastic_glossy.wamat",
+    "type": 6
+   },
+   "6192769306040741979": {
+    "name": "glossymetal.wamat",
+    "type": 6
+   },
+   "6233200281292489754": {
+    "name": "OilCoverScript.js",
+    "type": 5
+   },
+   "7407143976367213787": {
+    "name": "OKPLAY.png",
+    "type": 4
+   },
+   "7597665600903889330": {
+    "name": "orangeglass.wamat",
+    "type": 6
+   },
+   "8575778249170925039": {
+    "name": "WA-Logo.png",
+    "type": 4
+   },
+   "9254288649638594046": {
+    "name": "ArrowScript.js",
+    "type": 5
+   },
+   "9285877980616898830": {
+    "name": "OKROTATEINSIDE.png",
+    "type": 4
+   },
+   "9378025942351739836": {
+    "name": "Gray.wamat",
+    "type": 6
+   },
+   "9472120402518981200": {
+    "name": "matteplastic.wamat",
+    "type": 6
+   }
+  },
+  "containers": {
+   "0": {
+    "children": {
+     "0": {
+      "children": {
+       "0": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "9472120402518981200",
+           "name": "matteplastic.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 1,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.360534012317657,
+           "z": 1.91491997241974
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "bumper1"
+       },
+       "1": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "16137965272717525365",
+           "name": "whiteglassfrosted.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 3,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.881935000419617,
+           "z": -1.80658996105194
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "headlamp_lamp"
+       },
+       "10": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "16137965272717525365",
+           "name": "whiteglassfrosted.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 41,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.679305970668793,
+           "z": 1.73252999782562
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "headlamp_lamp3"
+       },
+       "11": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "5983984460873824816",
+           "name": "plastic_glossy.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 42,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 1.15059995651245,
+           "z": 0.038697000592947
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "window_frame2"
+       },
+       "12": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "7597665600903889330",
+           "name": "orangeglass.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 28,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.680664002895355,
+           "z": 1.75206005573273
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "headlamp_glass_orange"
+       },
+       "13": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "153525799650085768",
+           "name": "chrome.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 43,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.651008009910583,
+           "z": 1.84104001522064
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "chrome_line"
+       },
+       "14": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "14527926155859794726",
+           "name": "blackpaint.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 6,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.41108700633049,
+           "z": 1.81910002231598
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "foglight_base"
+       },
+       "15": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "13064796341937225118",
+           "name": "carpaint.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 44,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 1.36337995529175,
+           "z": -1.54981005191803
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "wing"
+       },
+       "16": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "153525799650085768",
+           "name": "chrome.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 21,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 1.35871994495392,
+           "z": -1.58124005794525
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "winglight_refl"
+       },
+       "17": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "153525799650085768",
+           "name": "chrome.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 45,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.693084001541138,
+           "z": 1.72994995117188
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "headlamp_chrome"
+       },
+       "18": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "16137965272717525365",
+           "name": "whiteglassfrosted.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 46,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.987250983715057,
+           "z": 0.623247027397156
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "rearmirrorlight_chrome1"
+       },
+       "19": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "16137965272717525365",
+           "name": "whiteglassfrosted.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 47,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.378233999013901,
+           "z": -1.83053004741669
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "stoplight_lamp"
+       },
+       "2": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "12277470587215350003",
+           "name": "brakedisc.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 34,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487978011369705,
+           "y": 0.332846999168396,
+           "z": -0.0227349996566772
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "brakedisc16"
+       },
+       "20": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "153525799650085768",
+           "name": "chrome.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 48,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.992828011512756,
+           "z": 0.626577973365784
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "rearmirrorlight_chrome"
+       },
+       "21": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "9472120402518981200",
+           "name": "matteplastic.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 14,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": -0.127478003501892,
+           "y": 1.04886996746063,
+           "z": -1.87753999233246
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "rearwisper"
+       },
+       "22": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "1089974170025506554",
+           "name": "tire.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 49,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.332991987466812,
+           "z": -0.0227991994470358
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "tire21"
+       },
+       "23": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "14527926155859794726",
+           "name": "blackpaint.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 29,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.431488007307053,
+           "z": -0.12364699691534
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "support19"
+       },
+       "24": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "16137965272717525365",
+           "name": "whiteglassfrosted.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 50,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.412719011306763,
+           "z": 1.77792000770569
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "foglight_lamp"
+       },
+       "25": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "4713809497351615849",
+           "name": "redglass.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 51,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.380874007940292,
+           "z": -1.86883997917175
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "stoplight_glass"
+       },
+       "26": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "16137965272717525365",
+           "name": "whiteglassfrosted.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 52,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0231890995055437,
+           "y": 1.35776996612549,
+           "z": -1.57332003116608
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "winglight_lamp"
+       },
+       "27": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "13064796341937225118",
+           "name": "carpaint.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 53,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.822784006595612,
+           "z": -0.420933991670609
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "fender4"
+       },
+       "28": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "1999574524184854708",
+           "name": "whiteglass.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 4,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.831450998783112,
+           "z": -1.82907998561859
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "headlamp_glass_white"
+       },
+       "29": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "13064796341937225118",
+           "name": "carpaint.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 7,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.860710024833679,
+           "z": -0.341569989919662
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "doorhandle"
+       },
+       "3": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "1999574524184854708",
+           "name": "whiteglass.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 36,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.89649897813797,
+           "z": -1.83806002140045
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "headlamp_glass_white1"
+       },
+       "30": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "5983984460873824816",
+           "name": "plastic_glossy.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 54,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": -0.0146276000887156,
+           "y": 0.973182022571564,
+           "z": 1.01213002204895
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "wisper"
+       },
+       "31": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "9472120402518981200",
+           "name": "matteplastic.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 55,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.942604005336761,
+           "z": 1.02968001365662
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "wisper_base"
+       },
+       "32": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "153525799650085768",
+           "name": "chrome.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 56,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.380584001541138,
+           "z": -1.84443998336792
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "stoplight_refl"
+       },
+       "33": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "13064796341937225118",
+           "name": "carpaint.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 57,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0356284007430077,
+           "y": 0.834197998046875,
+           "z": 0.957412004470825
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "hood"
+       },
+       "34": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "153525799650085768",
+           "name": "chrome.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 12,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0483980998396873,
+           "y": 0.33807298541069,
+           "z": -0.0229061990976334
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "foglight_detail"
+       },
+       "35": {
+        "children": {
+         "0": {
+          "children": {
+           "0": {
+            "components": {
+             "modelRoot": "DefaultSphere",
+             "transform": {
+              "localPosition": {
+               "x": 0.000121831893920898,
+               "y": -0.00614363746717572,
+               "z": 0.0648316144943237
+              },
+              "localRotation": {
+               "w": 1.0,
+               "x": -1.06581410364015e-14,
+               "y": 0.0,
+               "z": 0.0
+              },
+              "localScale": {
+               "x": 0.15518456697464,
+               "y": 0.0616992823779583,
+               "z": 0.155379265546799
+              }
+             }
+            },
+            "enabled": true,
+            "name": "OilCover"
+           }
+          },
+          "components": {
+           "script": {
+            "6233200281292489754": null
+           },
+           "transform": {
+            "localPosition": {
+             "x": -0.0876520350575447,
+             "y": 0.492065012454987,
+             "z": 0.201241984963417
+            },
+            "localRotation": {
+             "w": 0.707106828689575,
+             "x": 0.707106709480286,
+             "y": 0.0,
+             "z": 0.0
+            },
+            "localScale": {
+             "x": 1.94814813137054,
+             "y": 1.94814813137054,
+             "z": 1.94814813137054
+            }
+           }
+          },
+          "enabled": true,
+          "name": "Empty Object"
+         }
+        },
+        "components": {
+         "materials": {
+          "0": {
+           "id": "15380519246640248111",
+           "name": "beetle_2012_plastic.wamat"
+          },
+          "1": {
+           "id": "17394278241239840381",
+           "name": "beetle_2012_plastic_white.wamat"
+          },
+          "2": {
+           "id": "13091155473991718076",
+           "name": "beetle_2012_plastic_blue.wamat"
+          },
+          "3": {
+           "id": "16308826715218003194",
+           "name": "beetle_2012_aluminium.wamat"
+          },
+          "4": {
+           "id": "12977931466186880170",
+           "name": "beetle_2012_black.wamat"
+          }
+         },
+         "script": {
+          "17667645387726892534": null
+         },
+         "submesh": {
+          "childID": 15,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": -0.437938004732132,
+           "y": 0.687394976615906,
+           "z": 1.46571004390717
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 0.513307988643646,
+           "y": 0.513307988643646,
+           "z": 0.513307988643646
+          }
+         }
+        },
+        "enabled": true,
+        "name": "Circle002"
+       },
+       "36": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "9472120402518981200",
+           "name": "matteplastic.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 58,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487533994019032,
+           "y": 0.887373983860016,
+           "z": -1.95714998245239
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "logobase"
+       },
+       "37": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "5011141573685917332",
+           "name": "mirror.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 59,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 1.00583004951477,
+           "z": 0.545018017292023
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "rearmirror_mirror"
+       },
+       "38": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "15380519246640248111",
+           "name": "beetle_2012_plastic.wamat"
+          },
+          "1": {
+           "id": "17394278241239840381",
+           "name": "beetle_2012_plastic_white.wamat"
+          },
+          "2": {
+           "id": "13091155473991718076",
+           "name": "beetle_2012_plastic_blue.wamat"
+          },
+          "3": {
+           "id": "16308826715218003194",
+           "name": "beetle_2012_aluminium.wamat"
+          },
+          "4": {
+           "id": "12977931466186880170",
+           "name": "beetle_2012_black.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 60,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.609099984169006,
+           "z": 1.47327995300293
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "beetle_2012_engine"
+       },
+       "39": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "9472120402518981200",
+           "name": "matteplastic.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 61,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0483980998396873,
+           "y": 0.332893013954163,
+           "z": -0.0228489991277456
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "axis"
+       },
+       "4": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "9472120402518981200",
+           "name": "matteplastic.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 20,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.658232986927032,
+           "z": 1.84697997570038
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "airdeflector_grill1"
+       },
+       "40": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "2783494423762253251",
+           "name": "rubber.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 22,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 1.13260996341705,
+           "z": 0.599813997745514
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "detail"
+       },
+       "41": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "14527926155859794726",
+           "name": "blackpaint.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 62,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.649924993515015,
+           "z": 1.71897995471954
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "headlamp_chrome_line"
+       },
+       "42": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "17502212674238458442",
+           "name": "windowglass.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 64,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 1.14152002334595,
+           "z": -0.435613006353378
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "window1"
+       },
+       "43": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "153525799650085768",
+           "name": "chrome.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 8,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0483980998396873,
+           "y": 0.332922995090485,
+           "z": -0.0228278990834951
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "logo_wheel"
+       },
+       "44": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "9472120402518981200",
+           "name": "matteplastic.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 65,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.989524006843567,
+           "z": 0.652014017105103
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "rearmirror_plastic"
+       },
+       "45": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "9472120402518981200",
+           "name": "matteplastic.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 30,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0483980998396873,
+           "y": 0.33807298541069,
+           "z": -0.0229061990976334
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "bolt"
+       },
+       "46": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "4713809497351615849",
+           "name": "redglass.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 66,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.886604011058807,
+           "z": -1.78656995296478
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "headlamp_glass_red"
+       },
+       "47": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "15337690976175567550",
+           "name": "rimmatte.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 67,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0483980998396873,
+           "y": 0.121565997600555,
+           "z": -0.0228540003299713
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "nipple"
+       },
+       "48": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "9472120402518981200",
+           "name": "matteplastic.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 16,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 1.14023995399475,
+           "z": -0.430714011192322
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "window_frame1"
+       },
+       "49": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "13064796341937225118",
+           "name": "carpaint.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 68,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.634123980998993,
+           "z": 0.153578996658325
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "door"
+       },
+       "5": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "9472120402518981200",
+           "name": "matteplastic.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 37,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0494429990649223,
+           "y": 1.46114003658295,
+           "z": -1.30508995056152
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "sat"
+       },
+       "50": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "4713809497351615849",
+           "name": "redglass.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 69,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 1.35898995399475,
+           "z": -1.60355997085571
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "winglight_glass"
+       },
+       "51": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "17686827520072838838",
+           "name": "mattemetal.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 70,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.484865993261337,
+           "y": 0.291251987218857,
+           "z": -1.84500002861023
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "exhaust_pipe"
+       },
+       "52": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "1999574524184854708",
+           "name": "whiteglass.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 24,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.992744028568268,
+           "z": 0.627052009105682
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "rearmirrorlight_glass"
+       },
+       "53": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "15337690976175567550",
+           "name": "rimmatte.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 71,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0483980998396873,
+           "y": 0.332893013954163,
+           "z": -0.0228489991277456
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "rim20"
+       },
+       "54": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "5983984460873824816",
+           "name": "plastic_glossy.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 72,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.658537983894348,
+           "z": 1.96578001976013
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "airdeflector_base1"
+       },
+       "55": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "6192769306040741979",
+           "name": "glossymetal.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 73,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.710372984409332,
+           "z": 1.69186997413635
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "headlamp_mattemetal"
+       },
+       "56": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "15774266508519033917",
+           "name": "darkglass.wamat"
+          },
+          "1": {
+           "id": "9472120402518981200",
+           "name": "matteplastic.wamat"
+          },
+          "2": {
+           "id": "13064796341937225118",
+           "name": "carpaint.wamat"
+          },
+          "3": {
+           "id": "153525799650085768",
+           "name": "chrome.wamat"
+          },
+          "4": {
+           "id": "2783494423762253251",
+           "name": "rubber.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 31,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0499050989747047,
+           "y": 0.3784019947052,
+           "z": 2.03786993026733
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "camera_glass"
+       },
+       "57": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "2783494423762253251",
+           "name": "rubber.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 74,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 1.14242994785309,
+           "z": -0.183403998613358
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "shim1"
+       },
+       "58": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "13064796341937225118",
+           "name": "carpaint.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 9,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.540114998817444,
+           "z": -1.78503000736237
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "rear_car"
+       },
+       "59": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "14527926155859794726",
+           "name": "blackpaint.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 76,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.412779986858368,
+           "z": 1.77583003044128
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "foglight_black"
+       },
+       "6": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "9472120402518981200",
+           "name": "matteplastic.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 38,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.338789999485016,
+           "z": -1.92111003398895
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "bumper"
+       },
+       "60": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "1999574524184854708",
+           "name": "whiteglass.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 77,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.409987986087799,
+           "z": 1.84218001365662
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "foglight_glass_black"
+       },
+       "61": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "13064796341937225118",
+           "name": "carpaint.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 17,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487212017178535,
+           "y": 1.38689005374908,
+           "z": -0.600759029388428
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "roof"
+       },
+       "62": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "1999574524184854708",
+           "name": "whiteglass.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 78,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.688239991664886,
+           "z": 1.78987002372742
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "headlamp_glass"
+       },
+       "63": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "13064796341937225118",
+           "name": "carpaint.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 79,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.820883989334106,
+           "z": -1.85140001773834
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "trunk"
+       },
+       "64": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "153525799650085768",
+           "name": "chrome.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 25,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0489061996340752,
+           "y": 0.889778017997742,
+           "z": -1.97513997554779
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "logo"
+       },
+       "65": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "9378025942351739836",
+           "name": "Gray.wamat"
+          }
+         },
+         "modelRoot": "DefaultCube",
+         "transform": {
+          "localPosition": {
+           "x": -0.034378819167614,
+           "y": 0.716431498527527,
+           "z": 1.41451132297516
+          },
+          "localRotation": {
+           "w": 1.0,
+           "x": 0.0,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 0.123001597821712,
+           "y": 0.0238758455961943,
+           "z": 0.0421565324068069
+          }
+         }
+        },
+        "enabled": true,
+        "name": "Gray"
+       },
+       "66": {
+        "children": {
+         "0": {
+          "components": {
+           "materials": {
+            "0": {
+             "id": "5782631768539542102",
+             "name": "WA-Logo.wamat"
+            }
+           },
+           "modelRoot": "DefaultSphere",
+           "transform": {
+            "localPosition": {
+             "x": 0.0458079725503922,
+             "y": 0.661936521530151,
+             "z": 2.0483124256134
+            },
+            "localRotation": {
+             "w": 0.967620730400085,
+             "x": -0.252408564090729,
+             "y": 0.0,
+             "z": 0.0
+            },
+            "localScale": {
+             "x": 0.199801608920097,
+             "y": 0.190046906471252,
+             "z": 0.0708625167608261
+            }
+           }
+          },
+          "enabled": true,
+          "name": "WA-Logo-Front"
+         },
+         "1": {
+          "components": {
+           "materials": {
+            "0": {
+             "id": "5782631768539542102",
+             "name": "WA-Logo.wamat"
+            }
+           },
+           "modelRoot": "DefaultSphere",
+           "transform": {
+            "localPosition": {
+             "x": 0.272248864173889,
+             "y": 0.723443210124969,
+             "z": 1.41923451423645
+            },
+            "localRotation": {
+             "w": 0.707106828689575,
+             "x": -0.707106709480286,
+             "y": 0.0,
+             "z": 0.0
+            },
+            "localScale": {
+             "x": 0.132107630372047,
+             "y": 0.125657886266708,
+             "z": 0.0468538738787174
+            }
+           }
+          },
+          "enabled": true,
+          "name": "WA-Logo-Engine"
+         },
+         "2": {
+          "components": {
+           "materials": {
+            "0": {
+             "id": "5782631768539542102",
+             "name": "WA-Logo.wamat"
+            }
+           },
+           "modelRoot": "DefaultSphere",
+           "transform": {
+            "localPosition": {
+             "x": 0.0493051186203957,
+             "y": 0.887143313884735,
+             "z": -1.97898805141449
+            },
+            "localRotation": {
+             "w": -4.37113882867379e-08,
+             "x": -4.37113882867379e-08,
+             "y": 1.0,
+             "z": -4.37113882867379e-08
+            },
+            "localScale": {
+             "x": 0.14405620098114,
+             "y": 0.137023106217384,
+             "z": 0.0510916076600552
+            }
+           }
+          },
+          "enabled": true,
+          "name": "WA-Logo-Back"
+         }
+        },
+        "components": {
+         "transform": {
+          "localPosition": {
+           "x": 0.0,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localRotation": {
+           "w": 1.0,
+           "x": 0.0,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "WA-Logos"
+       },
+       "67": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "153525799650085768",
+           "name": "chrome.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 32,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.887503981590271,
+           "z": -1.78263998031616
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "headlamp_refl"
+       },
+       "68": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "2783494423762253251",
+           "name": "rubber.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 10,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.886039018630981,
+           "z": -1.77034997940063
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "headlamp_detail"
+       },
+       "69": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "14527926155859794726",
+           "name": "blackpaint.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 11,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.49091300368309,
+           "z": 0.00325937010347843
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "pan"
+       },
+       "7": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "437656696870105565",
+           "name": "leather.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 39,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0508043989539146,
+           "y": 0.901427984237671,
+           "z": -0.384425014257431
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "interior"
+       },
+       "70": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "13064796341937225118",
+           "name": "carpaint.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 18,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 1.0304000377655,
+           "z": 0.641803979873657
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "rearmirror"
+       },
+       "71": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "1999574524184854708",
+           "name": "whiteglass.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 19,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.628714978694916,
+           "z": 1.81305003166199
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "headlamp_glass_white4"
+       },
+       "72": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "1999574524184854708",
+           "name": "whiteglass.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 26,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.41108700633049,
+           "z": 1.8394900560379
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "foglight_glass"
+       },
+       "73": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "15774266508519033917",
+           "name": "darkglass.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 27,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.887344002723694,
+           "z": -1.70185995101929
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "headlamp_glass_black"
+       },
+       "74": {
+        "children": {
+         "0": {
+          "components": {
+           "materials": {
+            "0": {
+             "id": "13052976889304194284",
+             "name": "b0b0b0.wamat"
+            }
+           },
+           "submesh": {
+            "childID": 1,
+            "meshID": "10192997081772586404"
+           },
+           "transform": {
+            "localPosition": {
+             "x": 0.0,
+             "y": 0.623199999332428,
+             "z": 0.0
+            },
+            "localRotation": {
+             "w": 1.0,
+             "x": 0.0,
+             "y": 0.0,
+             "z": 0.0
+            },
+            "localScale": {
+             "x": 0.377000004053116,
+             "y": 0.377000004053116,
+             "z": 0.377000004053116
+            }
+           }
+          },
+          "enabled": true,
+          "name": "Cone"
+         },
+         "1": {
+          "components": {
+           "materials": {
+            "0": {
+             "id": "13052976889304194284",
+             "name": "b0b0b0.wamat"
+            }
+           },
+           "submesh": {
+            "childID": 2,
+            "meshID": "10192997081772586404"
+           },
+           "transform": {
+            "localPosition": {
+             "x": 0.0,
+             "y": 0.0,
+             "z": 0.0
+            },
+            "localRotation": {
+             "w": 1.0,
+             "x": 0.0,
+             "y": 0.0,
+             "z": 0.0
+            },
+            "localScale": {
+             "x": 0.128199994564056,
+             "y": 1.0,
+             "z": 0.120999999344349
+            }
+           }
+          },
+          "enabled": true,
+          "name": "Cylinder"
+         }
+        },
+        "components": {
+         "modelRoot": "10192997081772586404",
+         "script": {
+          "9254288649638594046": null
+         },
+         "transform": {
+          "localPosition": {
+           "x": -1.42931544780731,
+           "y": 1.92275094985962,
+           "z": 1.95768940448761
+          },
+          "localRotation": {
+           "w": -0.444515556097031,
+           "x": 0.0,
+           "y": 0.0,
+           "z": 0.895771145820618
+          },
+          "localScale": {
+           "x": 0.531823635101318,
+           "y": 0.531823635101318,
+           "z": 0.531823635101318
+          }
+         }
+        },
+        "enabled": true,
+        "name": "Arrow"
+       },
+       "75": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "153525799650085768",
+           "name": "chrome.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 5,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.412840992212296,
+           "z": 1.77785003185272
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "foglight_refl"
+       },
+       "76": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "14527926155859794726",
+           "name": "blackpaint.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 33,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.688773989677429,
+           "z": 1.69309997558594
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "headlamp_black"
+       },
+       "8": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "153525799650085768",
+           "name": "chrome.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 13,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.715857982635498,
+           "z": 1.61632001399994
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "headlamp_refl4"
+       },
+       "9": {
+        "components": {
+         "materials": {
+          "0": {
+           "id": "13064796341937225118",
+           "name": "carpaint.wamat"
+          }
+         },
+         "submesh": {
+          "childID": 40,
+          "meshID": "16929266321419804361"
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0487979985773563,
+           "y": 0.643692016601563,
+           "z": 1.23984003067017
+          },
+          "localRotation": {
+           "w": 0.70710676908493,
+           "x": -0.70710676908493,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "fender2"
+       }
+      },
+      "components": {
+       "animation": {
+        "autoplay": false,
+        "clip": "Base stack",
+        "loop": false
+       },
+       "modelRoot": "16929266321419804361",
+       "transform": {
+        "localPosition": {
+         "x": 0.0,
+         "y": 0.0,
+         "z": 0.0
+        },
+        "localRotation": {
+         "w": 1.0,
+         "x": 0.0,
+         "y": 0.0,
+         "z": 0.0
+        },
+        "localScale": {
+         "x": 0.600000023841858,
+         "y": 0.600000023841858,
+         "z": 0.600000023841858
+        }
+       }
+      },
+      "enabled": true,
+      "name": "Car"
+     },
+     "1": {
+      "children": {
+       "0": {
+        "components": {
+         "button": {
+          "anchor": 6,
+          "borderColor": {
+           "w": 1.0,
+           "x": 0.0,
+           "y": 0.681999981403351,
+           "z": 0.936999976634979
+          },
+          "color": {
+           "w": 1.0,
+           "x": 0.312999993562698,
+           "y": 0.312999993562698,
+           "z": 0.312999993562698
+          },
+          "fontScale": 1.0,
+          "pivot": 6,
+          "position": {
+           "x": 0.0,
+           "y": 0.0
+          },
+          "pressedColor": {
+           "w": 1.0,
+           "x": 0.175999999046326,
+           "y": 0.175999999046326,
+           "z": 0.175999999046326
+          },
+          "pressedTexture": "9285877980616898830",
+          "size": {
+           "x": 200.0,
+           "y": 200.0
+          },
+          "text": "",
+          "textColor": {
+           "w": 1.0,
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          },
+          "texture": "15767581237433304355",
+          "visible": true
+         },
+         "script": {
+          "5408303515658639398": null
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localRotation": {
+           "w": 1.0,
+           "x": 0.0,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "RotateButton"
+       },
+       "1": {
+        "components": {
+         "button": {
+          "anchor": 5,
+          "borderColor": {
+           "w": 1.0,
+           "x": 0.0,
+           "y": 0.681999981403351,
+           "z": 0.936999976634979
+          },
+          "color": {
+           "w": 1.0,
+           "x": 0.312999993562698,
+           "y": 0.312999993562698,
+           "z": 0.312999993562698
+          },
+          "fontScale": 1.0,
+          "pivot": 5,
+          "position": {
+           "x": 0.0,
+           "y": 0.0
+          },
+          "pressedColor": {
+           "w": 1.0,
+           "x": 0.175999999046326,
+           "y": 0.175999999046326,
+           "z": 0.175999999046326
+          },
+          "pressedTexture": "18034508081434875144",
+          "size": {
+           "x": 200.0,
+           "y": 200.0
+          },
+          "text": "",
+          "textColor": {
+           "w": 1.0,
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          },
+          "texture": "14599443459225784680",
+          "visible": true
+         },
+         "script": {
+          "1463330456998603592": null
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localRotation": {
+           "w": 1.0,
+           "x": 0.0,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "PlaceCarButton"
+       },
+       "2": {
+        "components": {
+         "button": {
+          "anchor": 7,
+          "borderColor": {
+           "w": 1.0,
+           "x": 0.0,
+           "y": 0.681999981403351,
+           "z": 0.936999976634979
+          },
+          "color": {
+           "w": 1.0,
+           "x": 0.312999993562698,
+           "y": 0.312999993562698,
+           "z": 0.312999993562698
+          },
+          "fontScale": 1.0,
+          "pivot": 7,
+          "position": {
+           "x": 0.0,
+           "y": 0.0
+          },
+          "pressedColor": {
+           "w": 1.0,
+           "x": 0.175999999046326,
+           "y": 0.175999999046326,
+           "z": 0.175999999046326
+          },
+          "pressedTexture": "1957486574744879812",
+          "size": {
+           "x": 200.0,
+           "y": 200.0
+          },
+          "text": "",
+          "textColor": {
+           "w": 1.0,
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          },
+          "texture": "7407143976367213787",
+          "visible": true
+         },
+         "script": {
+          "16882303935356701221": null
+         },
+         "transform": {
+          "localPosition": {
+           "x": 0.0,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localRotation": {
+           "w": 1.0,
+           "x": 0.0,
+           "y": 0.0,
+           "z": 0.0
+          },
+          "localScale": {
+           "x": 1.0,
+           "y": 1.0,
+           "z": 1.0
+          }
+         }
+        },
+        "enabled": true,
+        "name": "PlayButton"
+       }
+      },
+      "components": {
+       "transform": {
+        "localPosition": {
+         "x": 0.0,
+         "y": 0.0,
+         "z": 0.0
+        },
+        "localRotation": {
+         "w": 1.0,
+         "x": 0.0,
+         "y": 0.0,
+         "z": 0.0
+        },
+        "localScale": {
+         "x": 1.0,
+         "y": 1.0,
+         "z": 1.0
+        }
+       }
+      },
+      "enabled": true,
+      "name": "Buttons"
+     }
+    },
+    "components": {
+     "script": {
+      "16027782373507939813": null
+     },
+     "transform": {
+      "localPosition": {
+       "x": 0.0,
+       "y": 0.0,
+       "z": 0.0
+      },
+      "localRotation": {
+       "w": 1.0,
+       "x": 0.0,
+       "y": 0.0,
+       "z": 0.0
+      },
+      "localScale": {
+       "x": 1.0,
+       "y": 1.0,
+       "z": 1.0
+      }
+     }
+    },
+    "enabled": true,
+    "name": "Scene Root"
+   }
+  }
+ }
+}
