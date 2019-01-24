@@ -1,8 +1,16 @@
 {
+ "attributes": {
+  "materials": [
+   null,
+   null,
+   "13052976889304194284",
+   "13052976889304194284"
+  ]
+ },
  "checksum": "7214950624509178107",
  "extension": ".gltf",
  "id": "10192997081772586404",
  "name": "Arrow",
  "type": 1,
- "url": "C:/Users/Alon Gani/Documents/ENTiTi Projects/Car/raw/Arrow.fbx"
+ "url": "C:/Users/Alon Gani/Desktop/Car/raw/Arrow.fbx"
 }
