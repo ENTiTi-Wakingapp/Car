@@ -5,8 +5,7 @@ var shouldRotate = false;
 const speed = 50;
 
 object.button.onPressed = function() {
-    shouldRotate = !shouldRotate;
-    Log.printMessage("Button pressed, state: " + shouldRotate);
+    shouldRotate=!shouldRotate;
 }
 
 function update(deltaTime) 
